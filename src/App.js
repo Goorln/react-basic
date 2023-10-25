@@ -1,4 +1,4 @@
-
+// 项目的根组件
 
 function App() {
   return (
